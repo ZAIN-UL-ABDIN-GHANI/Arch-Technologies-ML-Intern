@@ -1,6 +1,3 @@
-Here’s a complete **README** for your project tailored to your specifications (author: Zain Ul Abdin, no external links, clean and professional):
-
----
 
 # Handwritten Digit Recognition Using Convolutional Neural Network (CNN)
 
